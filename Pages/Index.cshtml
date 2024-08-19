@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Arabig to Roman";
+}
+
+<div class="d-flex vh-100 justify-content-center align-items-center">
+    <div class="text-center">
+        <form method="post" enctype="multipart/form-data" class="bg-light p-5 rounded shadow-lg">
+            <div>
+                <label for="txtFile" class="form-label">Upload the .txt file with the arabic numbers</label>
+                <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required />
+            </div>
+            <div class="d-flex justify-content-center mt-4">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+        @if (Model.ShowDownloadButton)
+        {
+            <div class="mt-4">
+                <a asp-page-handler="DownloadFile" class="btn btn-primary">Download Processed File</a>
+            </div>
+        }
+    </div>
+</div>

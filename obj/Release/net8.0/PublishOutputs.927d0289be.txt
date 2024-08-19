@@ -1,0 +1,7 @@
+/home/victoria/Documents/Prg2-Prtc2/Ballesteros-0745/bin/Release/net8.0/publish/Ballesteros-0745
+/home/victoria/Documents/Prg2-Prtc2/Ballesteros-0745/bin/Release/net8.0/publish/appsettings.Development.json
+/home/victoria/Documents/Prg2-Prtc2/Ballesteros-0745/bin/Release/net8.0/publish/appsettings.json
+/home/victoria/Documents/Prg2-Prtc2/Ballesteros-0745/bin/Release/net8.0/publish/Ballesteros-0745.dll
+/home/victoria/Documents/Prg2-Prtc2/Ballesteros-0745/bin/Release/net8.0/publish/Ballesteros-0745.deps.json
+/home/victoria/Documents/Prg2-Prtc2/Ballesteros-0745/bin/Release/net8.0/publish/Ballesteros-0745.runtimeconfig.json
+/home/victoria/Documents/Prg2-Prtc2/Ballesteros-0745/bin/Release/net8.0/publish/Ballesteros-0745.pdb

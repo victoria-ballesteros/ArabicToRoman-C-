@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ballesteros-0745/1.0.0": {
+        "runtime": {
+          "Ballesteros-0745.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ballesteros-0745/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
