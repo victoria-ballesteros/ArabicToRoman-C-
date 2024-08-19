@@ -1,14 +1,18 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Arabig to Roman";
+    ViewData["Title"] = "Arabic to Roman";
 }
 
 <div class="d-flex vh-100 justify-content-center align-items-center">
-    <div class="text-center">
-        <form method="post" enctype="multipart/form-data" class="bg-light p-5 rounded shadow-lg">
+    <div class="">
+        <div class="mb-3">
+            <h1 class="title">Numeric Translator: Arabic to Roman</h1>
+        </div>
+        <form method="post" enctype="multipart/form-data" class="bg-light p-5 rounded shadow-lg text-center">
             <div>
-                <label for="txtFile" class="form-label">Upload the .txt file with the arabic numbers</label>
+                <label for="txtFile" class="form-label">Please upload a plain text (.txt) file with the arabic numbers
+                    to translate</label>
                 <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required />
             </div>
             <div class="d-flex justify-content-center mt-4">

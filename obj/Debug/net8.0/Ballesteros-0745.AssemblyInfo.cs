@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ballesteros-0745")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad473b98cc87fe514de396694df7a52c1de17a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ballesteros-0745")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ballesteros-0745")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
